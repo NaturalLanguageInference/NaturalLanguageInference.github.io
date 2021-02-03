@@ -18,7 +18,21 @@ services:
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
-
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
 
 portfolio:
     title: "Research & Projects"
