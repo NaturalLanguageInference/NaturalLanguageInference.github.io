@@ -11,28 +11,28 @@ services:
     list:
       - title: "Gijoo Yang"
         desc: "description \n test"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        img: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Junwook Kang"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
+        img: fas fa-laptop       
       - title: "[SeongKon Kang](https://en.wikipedia.org/wiki/Markdown)"
         desc: "description"
-        icon: fab fa-markdown
+        img: fab fa-markdown
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        img: fab fa-markdown
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        img: fab fa-markdown
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        img: fab fa-markdown
       - title: "[Jeonggeun Jin](https://en.wikipedia.org/wiki/Markdown)"
         desc: "M.S. Candidate \n - Natural Language Inference \n - vv0926@hanmail.net"
-        icon: fab fa-markdown
+        img : assets/img/timeline/1.jpg  
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        img: fab fa-markdown
 
 portfolio:
     title: "Research & Projects"
