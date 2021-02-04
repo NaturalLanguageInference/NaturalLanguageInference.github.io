@@ -36,21 +36,21 @@ services:
 
 portfolio:
     title: "Research & Projects"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: ""
     section: portfolio
     closebutton: "Close Project"
     
 
 timeline:
     title: "Publications" 
-    text: "Lorem ipsum timeline"
+    text: ""
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
+      - title: "research 1"
         year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "descriptions"
         image: assets/img/timeline/1.jpg
         alt: 
       - title: "An Agency is Born"
