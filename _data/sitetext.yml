@@ -12,7 +12,7 @@ team:
     people:
       - name: "Gijoo Yang"
         role: "description \n = Description2 \n Description 3"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/Gijoo.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
