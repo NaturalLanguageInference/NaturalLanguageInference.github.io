@@ -7,11 +7,11 @@ header:
 team:
     title: "Professors"
     text: ""
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: 
     section: team
     people:
       - name: "Gijoo Yang"
-        role: "Lead Designer"
+        role: "description \n = Description2 \n Description 3"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -20,9 +20,9 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Konhan Sung"
+        role: "description \n = Description2 \n Description 3"
+        image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -30,8 +30,8 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Junwook Kang"
+        role: "description \n = Description2 \n Description 3"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -81,19 +81,19 @@ timeline:
         desc: "descriptions"
         image: assets/img/timeline/1.jpg
         alt: 
-      - title: "An Agency is Born"
+      - title: "Publication 2"
         year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "description"
         image: assets/img/timeline/2.jpg
         alt: 
-      - title: "Jekyll Theme is created"
+      - title: "Publication 3"
         year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "description 3"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
+      - title: "Publication 4"
         year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "description"
         image: assets/img/timeline/4.jpg
         alt: 
         # you can enforce the aligment
@@ -104,25 +104,7 @@ about:
     title: "About Us"
     text: "our story"
     section: about
-
-clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-          
+         
 contact:
     title: "Contact Us"
     text: "Send Mail or call @@@"
