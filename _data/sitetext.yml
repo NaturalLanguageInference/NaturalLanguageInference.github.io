@@ -49,7 +49,7 @@ services:
       - title: "Younhyun Kim"
         desc: "M.S. Candidate \n - Reinforcement Learning \n - rladbsgus94@gmail.com"
         img: assets/img/team/Younhyun.PNG
-      - title: "Dayeong Lee"
+      - title: "Dayoung Lee"
         desc: "M.S. Candidate \n - Dialog Systems \n - Commonsense Reasoning \n - dylee3489@gmail.com"
         img: assets/img/team/dayeong.jpg
       - title: "Soyeon Lee"
