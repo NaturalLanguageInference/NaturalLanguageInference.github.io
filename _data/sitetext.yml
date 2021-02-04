@@ -57,7 +57,7 @@ services:
         img: fab fa-markdown
       - title: "Jeonggeun Jin"
         desc: "M.S. Candidate \n - Natural Language Inference \n - vv0926@hanmail.net"
-        img : assets/img/timeline/1.jpg  
+        img : assets/img/team/Jeonggeun.jpg  
       - title: "학부생"
         desc: "description"
         img: fab fa-markdown
