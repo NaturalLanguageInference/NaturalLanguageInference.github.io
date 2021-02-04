@@ -58,12 +58,12 @@ services:
       - title: "Jeonggeun Jin"
         desc: "M.S. Candidate \n - Natural Language Inference \n - pion0926@gmail.com"
         img : assets/img/team/Jeonggeun.PNG  
-      - title: "학부생"
-        desc: "description"
-        img: fab fa-markdown
-      - title: "학부생"
-        desc: "description"
-        img: fab fa-markdown
+      - title: "Sangjun Park"
+        desc: "B.S. Candidate \n - Natural Language Process  \n - guaba0412@gmail.com"
+        img: assets/img/team/sangjun.jpg
+      - title: "Dong Young Lee"
+        desc: "B.S. Candidate \n - Embedded System \n - Reinforcement Learning \n - dong5854@naver.com"
+        img: assets/img/team/dongyeong.PNG
       - title: "학부생"
         desc: "description"
         img: fab fa-markdown
