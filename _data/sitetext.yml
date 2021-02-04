@@ -131,8 +131,8 @@ contact:
 footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"  
+      - url: https://ice.dongguk.edu/
+        icon: "fab fa-globe"  
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
