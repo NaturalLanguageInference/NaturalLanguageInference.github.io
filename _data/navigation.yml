@@ -1,4 +1,7 @@
 nav:
+  - title: "Professors"
+    section: team
+    
   - title: "MEMBERS"
     section: services
 
