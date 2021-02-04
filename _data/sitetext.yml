@@ -47,7 +47,7 @@ services:
     section: services
     list:
       - title: "Yunhyeon Kim"
-        desc: "description"
+        desc: "M.S. Candidate \n - Natural Language Inference \n - vv0926@hanmail.net"
         img: fab fa-markdown
       - title: "Dayeong Lee"
         desc: "description"
