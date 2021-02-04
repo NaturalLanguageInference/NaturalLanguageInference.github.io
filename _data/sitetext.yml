@@ -46,20 +46,29 @@ services:
     text: ""
     section: services
     list:
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Yunhyeon Kim"
+        desc: "description"
         img: fab fa-markdown
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Dayeong Lee"
+        desc: "description"
         img: fab fa-markdown
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Soyeon Lee"
+        desc: "description"
         img: fab fa-markdown
-      - title: "[Jeonggeun Jin](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Jeonggeun Jin"
         desc: "M.S. Candidate \n - Natural Language Inference \n - vv0926@hanmail.net"
         img : assets/img/timeline/1.jpg  
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "학부생"
+        desc: "description"
+        img: fab fa-markdown
+      - title: "학부생"
+        desc: "description"
+        img: fab fa-markdown
+      - title: "학부생"
+        desc: "description"
+        img: fab fa-markdown
+      - title: "학부생"
+        desc: "description"
         img: fab fa-markdown
 
 portfolio:
