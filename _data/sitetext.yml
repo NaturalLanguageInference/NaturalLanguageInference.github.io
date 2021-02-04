@@ -46,15 +46,15 @@ services:
     text: ""
     section: services
     list:
-      - title: "Yunhyeon Kim"
-        desc: "M.S. Candidate \n - Natural Language Inference \n - vv0926@hanmail.net"
-        img: fab fa-markdown
+      - title: "Younhyun Kim"
+        desc: "M.S. Candidate \n - Reinforcement Learning \n - rladbsgus94@gmail.com"
+        img: assets/img/team/YunHyeon.jpg
       - title: "Dayeong Lee"
         desc: "description"
         img: fab fa-markdown
       - title: "Soyeon Lee"
         desc: "description"
-        img: fab fa-markdown
+        img: assets/img/team/Soyeon.jpg
       - title: "Jeonggeun Jin"
         desc: "M.S. Candidate \n - Natural Language Inference \n - vv0926@hanmail.net"
         img : assets/img/team/Jeonggeun.PNG  
