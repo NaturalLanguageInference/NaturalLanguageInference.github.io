@@ -50,13 +50,13 @@ services:
         desc: "M.S. Candidate \n - Reinforcement Learning \n - rladbsgus94@gmail.com"
         img: assets/img/team/Younhyun.PNG
       - title: "Dayeong Lee"
-        desc: "M.S. Candidate \n - Dialog Systems \n - Commonsense Reasoning \n - dayoung919@naver.com"
+        desc: "M.S. Candidate \n - Dialog Systems \n - Commonsense Reasoning \n - dylee3489@gmail.com"
         img: assets/img/team/dayeong.jpg
       - title: "Soyeon Lee"
         desc: "M.S. Candidate \n - Natural Language Inference \n - thdus4359@gmail.com"
         img: assets/img/team/Soyeon.jpg
       - title: "Jeonggeun Jin"
-        desc: "M.S. Candidate \n - Natural Language Inference \n - vv0926@hanmail.net"
+        desc: "M.S. Candidate \n - Natural Language Inference \n - pion0926@gmail.com"
         img : assets/img/team/Jeonggeun.PNG  
       - title: "학부생"
         desc: "description"
