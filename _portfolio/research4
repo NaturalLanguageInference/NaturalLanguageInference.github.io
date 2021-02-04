@@ -1,13 +1,13 @@
 ---
 title: AI 기반 곡가공 가열 알고리즘 개발
 subtitle: 조선해양 ICT 융합 개발사업 20.03.01~20.12.31
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/DSME.jpg
 alt: Shirts on a hanger
 
 caption:
   title: AI 기반 곡가공 가열 알고리즘 개발
   subtitle: 조선해양 ICT 융합 개발사업 20.03.01~20.12.31
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/DSME.jpg
 ---
 Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 
