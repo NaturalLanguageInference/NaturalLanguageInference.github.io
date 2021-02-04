@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: FVQA
   subtitle: Fact-Based Visual Question Answering
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/portfolio/FVQA.jpg
   
 #what displays when the item is clicked:
 title: FVQA
