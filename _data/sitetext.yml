@@ -48,7 +48,7 @@ services:
     list:
       - title: "Younhyun Kim"
         desc: "M.S. Candidate \n - Reinforcement Learning \n - rladbsgus94@gmail.com"
-        img: assets/img/team/YounHyun.PNG
+        img: assets/img/team/Younyun.PNG
       - title: "Dayeong Lee"
         desc: "description"
         img: fab fa-markdown
