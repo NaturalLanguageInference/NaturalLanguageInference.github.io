@@ -51,7 +51,7 @@ services:
         img: assets/img/team/Younhyun.PNG
       - title: "Dayeong Lee"
         desc: "M.S. Candidate \n - Dialog Systems \n - Commonsense Reasoning \n - dayoung919@naver.com"
-        img: assets/img/team/Dayeong.jpg
+        img: assets/img/team/dayeong.jpg
       - title: "Soyeon Lee"
         desc: "M.S. Candidate \n - Natural Language Inference \n - thdus4359@gmail.com"
         img: assets/img/team/Soyeon.jpg
