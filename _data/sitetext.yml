@@ -20,7 +20,7 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Konhan Sung"
+      - name: "Sungkon Han"
         role: "description \n = Description2 \n Description 3"
         image: assets/img/team/500x500.jpg
         social:
