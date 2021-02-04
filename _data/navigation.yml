@@ -1,13 +1,13 @@
 nav:
-  - title: "Services"
+  - title: "MEMBERS"
     section: services
 
-  - title: "Portfolio"
+  - title: "RESEARCH & PROJECTS"
     section: portfolio
     
-  - title: "About"
+  - title: "PUBLICATIONS"
     section: timeline
 
-  - title: "Contact"
+  - title: "CONTACT"
     section: contact
 
