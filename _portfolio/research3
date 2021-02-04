@@ -1,13 +1,13 @@
 ---
 title: 딥러닝 이미지 인식 기술을 활용한 RPA를 위한 비표준 Web 화면 자동 인식 및 자동 update 기술 개발
 subtitle: LINC 18.06.01~19.01.31
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/LINC.jpg
 alt: Shirts on a hanger
 
 caption:
   title: 딥러닝 이미지 인식 기술을 활용한 RPA를 위한 비표준 Web 화면 자동 인식 및 자동 update 기술 개발
   subtitle: LINC 18.06.01~19.01.31
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/LINC.jpg
 ---
 Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 
