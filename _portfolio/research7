@@ -9,7 +9,12 @@ caption:
   subtitle: 정보통신 방송 기술 개발사업 20.10.01 ~
   thumbnail: assets/img/portfolio/FVQA2.JPG
 ---
-<p>
+<p style="text-align:left;">
+
+<span style = " font-size:1.5em;">
+최종 목표
+</span> <br>
+
  o FVQA를 이용한 선체 제조 공정 시 하자 검출 <br>
  o 선체 제조 공정은 도정 전처리 작업 점검, 도장 작업 후 덜 칠해지거나 벗겨진 부분 검출, 찌그러짐 등 선박 크랙 검출, 표면처리 후 이물질이나 녹 등을 검출을 진행  <br>
  o FVQA를 이용한 선체 제조 공정 시 작업자 위험 검출 <br>
@@ -24,7 +29,7 @@ caption:
 을 사용하며 oneM2MBrowser oneM2M Browser: 사물인터넷 국제 표준 oneM2M 기반의 플랫폼에 존재하는 리소스를 실시간 모니터링 및 관리하는 오픈소스 툴
 을 기반으로 구현 <br>
 </p>
-<p>
+<p style="text-align:left;">
  o End Product <br> 
    - 데이터 전송 및 저장 Server (SW) <br>
    - 선체 하자 판별 및 위험 감지 FVQA (서버 탑재형 SW) <br>
