@@ -11,11 +11,11 @@ caption:
 ---
 
 
-<span style = " font-size:1.5em;">
+<span style = " font-size:1.3em;">
 연구 개요
 </span> <br>
 <p style="text-align:left;">
-본 과제는 FVQA(Fact-based Visual Question Answering) 기술을 조선업분야에 접목하여 위험감지 및 하자판별을 위한 solution을 기획,
+     본 과제는 FVQA(Fact-based Visual Question Answering) 기술을 조선업분야에 접목하여 위험감지 및 하자판별을 위한 solution을 기획,
 개발하는 인공지능 전문 기업의 육성을 목표로 한다. FVQA는 사전 구성된 지식 베이스를 토대로 사진 또는 영상과, 그리고 그와 관련된
 복잡한 질문이 주어졌을 때 알맞은 답변을 구하고, 그 근거를 제시할 수 있도록 하는 연구이다. 조선 공정은 많은 위험과 결함이 생길
 수 있는 환경임에도 불구하고 이에 대한 대책으로 오직 인력에만 의존하고 있다. 그러나 사람이 방대한 작업 환경과 많은 작업자들의
@@ -27,12 +27,12 @@ caption:
   필요성을 설명한다. 이러한 solution을 위해 필요한 기술은 첫 째로 지식 데이터베이스의 구축이 필요하며 둘 째 시각 데이터에서 
   정보를 추출하는 모델이 필요하다. 마지막으로 수집된 정보를 통해 올바른 분석 및 해결책을 제시할 수 있는 추론 모델이 필요하다.
  </p> 
-<p style="text-align:left;">
 
-<span style = " font-size:1.5em;">
+
+<span style = " font-size:1.3em;">
 최종 목표
 </span> <br>
-
+<p style="text-align:left;">
  o FVQA를 이용한 선체 제조 공정 시 하자 검출 <br>
  o 선체 제조 공정은 도정 전처리 작업 점검, 도장 작업 후 덜 칠해지거나 벗겨진 부분 검출, 찌그러짐 등 선박 크랙 검출, 표면처리 후 이물질이나 녹 등을 검출을 진행  <br>
  o FVQA를 이용한 선체 제조 공정 시 작업자 위험 검출 <br>
