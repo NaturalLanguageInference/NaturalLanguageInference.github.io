@@ -13,23 +13,23 @@ team:
       - name: "Gijoo Yang"
         role: "description \n = Description2 \n Description 3"
         image: assets/img/team/Gijoo.png
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+#         social:
+#           - url: https://twitter.com
+#             icon: fab fa-twitter
+#           - url: https://facebook.com
+#             icon: fab fa-facebook-f
+#           - url: https://linkedin.com
+#             icon: fab fa-linkedin-in
       - name: "Sungkon Han"
         role: "description \n = Description2 \n Description 3"
         image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+#         social:
+#           - url: https://twitter.com
+#             icon: fab fa-twitter
+#           - url: https://facebook.com
+#             icon: fab fa-facebook-f
+#           - url: https://linkedin.com
+#             icon: fab fa-linkedin-in
 #       - name: "Junwook Kang"
 #         role: "description \n = Description2 \n Description 3"
 #         image: assets/img/team/500x500.jpg
@@ -64,12 +64,12 @@ services:
       - title: "Dong Young Lee"
         desc: "B.S. Candidate \n - Embedded System \n - Reinforcement Learning \n - dong5854@naver.com"
         img: assets/img/team/dongyeong.PNG
-      - title: "학부생"
-        desc: "description"
-        img: fab fa-markdown
-      - title: "학부생"
-        desc: "description"
-        img: fab fa-markdown
+#       - title: "학부생"
+#         desc: "description"
+#         img: fab fa-markdown
+#       - title: "학부생"
+#         desc: "description"
+#         img: fab fa-markdown
 
 portfolio:
     title: "Research & Projects"
