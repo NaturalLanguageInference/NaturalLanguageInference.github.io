@@ -1,0 +1,25 @@
+---
+title: 조선 건조 규칙 질의 응답 시스템
+subtitle: 21.02.01 ~
+image:
+alt:
+
+caption:
+  title: 조선 건조 규칙 질의 응답 시스템
+  subtitle: 21.02.01 ~
+  thumbnail:
+---
+
+
+<span style = " font-size:1.3em;">
+연구 개요
+</span> <br>
+<p style="text-align:left;">
+본 과제는 FVQA(Fact-based Visual Question Answering) 기술을 토대로 조선 건조 규칙 
+질의 응답 시스템 구축을 목표로 한다. 조선 구조 설계에 필요한 규칙들에는 다양한 수식 및 
+수식에 대한 설명, 설계 도면 등 사진과 글로 이루어져 있다. 다양한 규칙들을 통해 지식 베이스를 
+구축한 후, 조선 설계 사진 및 질문이 주어졌을 때 지식 베이스를 토대로 질문에 대한 분석을 위한 
+추론 모델을 구축하고자 한다.
+ </p> 
+
+
